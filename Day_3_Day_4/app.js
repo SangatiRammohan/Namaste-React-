@@ -87,7 +87,7 @@ const Body = () => {
 const Footer = () => <div className="footer">Copyright © Rammohan</div>;
 
 const Layout = () => (
-  <div>
+  <div className="fullbody">
     <Header />
     <Body />
     <Footer />
