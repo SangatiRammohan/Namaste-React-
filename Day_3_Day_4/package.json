@@ -1,0 +1,24 @@
+{
+  "name": "project_bulding",
+  "version": "1.0.0",
+  "description": "Building project related to food or something later will be decided",
+  "keywords": [
+    "food",
+    "random",
+    "anything",
+    "whatever"
+  ],
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}

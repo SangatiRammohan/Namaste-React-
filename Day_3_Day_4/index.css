@@ -1,0 +1,68 @@
+.card{
+    display:flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+
+.image{
+    width:100px
+}
+
+.navicons{
+    display:flex;
+    margin: 10px;
+}
+.navicons > li{
+        padding:10px;
+list-style: none;        
+
+}
+.bodyCard{
+    border:1px solid black;
+    margin: 5px;
+    
+}
+.searchInput{
+    border:1px solid gray;
+    margin:5px;
+    text-align:center;
+    padding:8px;
+    
+}
+.cardItems{
+    border: 1px solid gray;
+    width:400px;
+    margin:8px;   
+    display:flex ;
+    flex-wrap: wrap; 
+}
+.cardItems:hover{
+    cursor: pointer;
+    transition: 0.3s;
+
+}
+.cardItems img{
+    width:100%;
+    height:300px
+}
+
+.listItems{
+    color:blue;
+    margin:5px
+}.bodyCard {
+    padding: 20px;
+}
+.cardList{
+    display: flex;
+    flex-wrap: wrap;
+}
+.cardItems{
+    border-radius: 15px;
+}
+.footer{
+    border: 1px solid black;
+    padding: 5px
+}
+
+
+
