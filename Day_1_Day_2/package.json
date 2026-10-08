@@ -1,0 +1,24 @@
+{
+  "name": "day-1",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "parcel Index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "browserslist": [
+    "defaults and fully supports es6-module",
+    "maintained node versions"
+  ],
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
